@@ -6,6 +6,11 @@
   </a>
 </h1>
 
+<h5 align="center">
+  <code><a href="linkedin.com/in/atharva-sable-037a15191/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  
+</h5>
+<br>
 
 - 👋 Hi, I’m @AtharvaSable
 - 👀 I’m interested in Coding
