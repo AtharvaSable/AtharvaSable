@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AtharvaSable
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web Dev
-- 💞️ I’m looking to collaborate on github
+- 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me atharvasable101@gmail.com
 
 <!---
